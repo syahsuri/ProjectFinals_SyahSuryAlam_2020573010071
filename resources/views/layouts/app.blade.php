@@ -24,7 +24,7 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     </head>
 
-    <div class="bg-image" style="background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp');">
+    <div class="bg-image with-3d-shadow" style="background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp');">
 
         <body>
             <div id="app">
@@ -176,13 +176,13 @@
                         </div>
 
                         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-                            <li class="ms-3"><a class="text-muted" href="#"><svg class="bi" width="24" height="24">
+                            <li class="ms-3"><a class="text-blue" href="#"><svg class="bi" width="24" height="24">
                                         <use xlink:href="#twitter" />
                                     </svg></a></li>
-                            <li class="ms-3"><a class="text-muted" href="#"><svg class="bi" width="24" height="24">
+                            <li class="ms-3"><a class="text-white" href="#"><svg class="bi" width="24" height="24">
                                         <use xlink:href="#instagram" />
                                     </svg></a></li>
-                            <li class="ms-3"><a class="text-muted" href="#"><svg class="bi" width="24" height="24">
+                            <li class="ms-3"><a class="text-blue" href="#"><svg class="bi" width="24" height="24">
                                         <use xlink:href="#facebook" />
                                     </svg></a></li>
                         </ul>

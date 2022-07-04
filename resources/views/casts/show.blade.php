@@ -17,7 +17,7 @@
         </ul>
     </div>
     <div class="card-footer">
-        <form action="{{route('casts.destroy,$cast->id)}}" method="POST">
+        <form action="{{route('casts.destroy',$cast->id)}}" method="POST">
             @csrf
             @method('delete')
             <button type="submit" class="btn btn-link float-right ">Delete</button>
